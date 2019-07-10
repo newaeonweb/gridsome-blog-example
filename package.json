@@ -1,0 +1,21 @@
+{
+  "name": "ricky-morty-site",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^1.2.0",
+    "axios": "^0.19.0",
+    "gridsome": "^0.6.0",
+    "tailwindcss": "^1.0.4"
+  },
+  "devDependencies": {
+    "postcss-import": "^12.0.1",
+    "postcss-loader": "^3.0.0",
+    "postcss-nested": "^4.1.2",
+    "tailwindcss-transitions": "^2.0.1"
+  }
+}

@@ -1,0 +1,15 @@
+/*! purgecss start ignore */
+@import 'tailwindcss/base';
+/*! purgecss end ignore */
+
+/* @import 'components/resets'; */
+
+@import 'tailwindcss/components';
+
+/* @import 'components/markdown'; */
+
+@import 'tailwindcss/utilities';
+
+.active--exact {
+  @apply text-teal-500 font-bold;
+}

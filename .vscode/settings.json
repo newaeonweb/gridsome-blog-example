@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": false,
+  "editor.formatOnPaste": true,
+  "[javascript]": {
+    "editor.formatOnSave": true,
+  },
+  "[vue]": {
+    "editor.formatOnSave": true,
+  },
+  "[css]": {
+    "editor.formatOnSave": true
+  },
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5",
+  "prettier.bracketSpacing": true,
+  "prettier.eslintIntegration": true
+}
